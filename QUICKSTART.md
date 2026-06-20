@@ -12,7 +12,7 @@ Get StellarDataLab running in 5 minutes.
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/stellar/stellar-data-lab.git
+git clone https://github.com/johnsaviour56-ship-it/stellar-data-lab.git
 cd stellar-data-lab
 
 # 2. Create virtual environment
@@ -138,8 +138,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for step-by-step guide.
 ## Get Help
 
 - **Read the docs**: [docs/](docs/)
-- **Open an issue**: https://github.com/stellar/stellar-data-lab/issues
-- **Start a discussion**: https://github.com/stellar/stellar-data-lab/discussions
+- **Open an issue**: https://github.com/johnsaviour56-ship-it/stellar-data-lab/issues
+- **Start a discussion**: https://github.com/johnsaviour56-ship-it/stellar-data-lab/discussions
 
 ---
 
