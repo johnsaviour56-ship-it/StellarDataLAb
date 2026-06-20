@@ -50,7 +50,7 @@ The following datasets are available:
 Clone and browse datasets:
 
 ```bash
-git clone https://github.com/stellar/stellar-data-lab.git
+git clone https://github.com/johnsaviour56-ship-it/stellar-data-lab.git
 cd stellar-data-lab
 ls datasets/curated/
 ```
@@ -61,7 +61,7 @@ Download versioned datasets:
 
 ```bash
 # Get v1.0.0
-wget https://github.com/stellar/stellar-data-lab/releases/download/v1.0.0/datasets.tar.gz
+wget https://github.com/johnsaviour56-ship-it/stellar-data-lab/releases/download/v1.0.0/datasets.tar.gz
 tar -xzf datasets.tar.gz
 ```
 
@@ -168,4 +168,4 @@ For specific datasets, cite the dataset version and date:
 
 **Last updated**: January 2024
 
-**Questions?** Open an [issue](https://github.com/stellar/stellar-data-lab/issues) or [discussion](https://github.com/stellar/stellar-data-lab/discussions).
+**Questions?** Open an [issue](https://github.com/johnsaviour56-ship-it/stellar-data-lab/issues) or [discussion](https://github.com/johnsaviour56-ship-it/stellar-data-lab/discussions).
