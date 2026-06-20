@@ -148,7 +148,7 @@ If you use StellarDataLab datasets in your research, please cite:
   title={StellarDataLab: Open-source Research and Data Repository for the Stellar Ecosystem},
   author={StellarDataLab Contributors},
   year={2024},
-  url={https://github.com/stellar/stellar-data-lab}
+  url={https://github.com/johnsaviour56-ship-it/stellar-data-lab}
 }
 ```
 
@@ -160,7 +160,7 @@ For specific datasets, cite the dataset version and date:
   author={StellarDataLab Contributors},
   year={2024},
   version={1.0},
-  url={https://github.com/stellar/stellar-data-lab/releases}
+  url={https://github.com/johnsaviour56-ship-it/stellar-data-lab/releases}
 }
 ```
 
